@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Roldão Pitra, a passionate Software Engineeri
 
 ## 🔭 What I'm Working On
 
-Java Spring Boot Projects: Building RESTful microservices and web applications like Ds-List (game listing API).
+Java Spring Boot Projects: Building RESTful microservices and web applications like my Ds-List project (game listing API).
 
 C++ Sensor Fusion Simulator: Designing a multithreaded simulator with Kalman Filter integration for automotive sensor fusion.
 
@@ -14,6 +14,8 @@ C++ Sensor Fusion Simulator: Designing a multithreaded simulator with Kalman Fil
 Embedded Systems: Diving into microcontrollers, real-time OS, and hardware interfaces.
 
 Modern C/C++: Applying OOP best practices, templates, and concurrency.
+
+Full stack development using: Java | Spring Boot | JavaScript| React | PostgreSQL | PHP | Etc 
 
 ## 👯 Collaboration Opportunities
 
@@ -26,22 +28,32 @@ LinkedIn: www.linkedin.com/in/roldão-pitra-695895274
 ## 🔧 Tech Stack
 
 ### Languages & Frameworks:
-Java
-Springboot
-Sql
-Python
-C/++
+Java |
+Spring Boot |
+Sql |
+Python|
+C/C++ |
+JavaScript |
+PHP |
+Html & CSS |
+
 
 ### Tools & Databases
-H2 Database 
-PostgreSQL
-Postman 
-Railway
+PostgreSQL |
+H2 Database | 
+Postman |
+Railway |
 
 ### IDEs & Misc
-Maven & Gradle 
-CMake & Make 
-Docker 
+VS Code |
+Intellij |
+Pycharm |
+Cursor |
+Eclipse |
+Maven |
+Gradle |
+CMake|
+Docker |
           
 ## 📈 GitHub Stats
 

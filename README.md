@@ -34,6 +34,8 @@ Sql |
 Python|
 C/C++ |
 JavaScript |
+React |
+Next.js |
 PHP |
 Html & CSS |
 

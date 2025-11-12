@@ -2,43 +2,43 @@
 
 Welcome to my GitHub profile! I'm Roldão Pitra, a passionate Software Engineering student with a love for all things automotive, embedded systems, and back end development.
 
-## 🔭 What I'm Working On
+##  What I'm Working On
 
 Java Spring Boot Projects: Building RESTful microservices and web applications like my Ds-List project (game listing API).
 
 C++ Sensor Fusion Simulator: Designing a multithreaded simulator with Kalman Filter integration for automotive sensor fusion.
 
 
-## 🌱 What I'm Learning
+## What I'm Learning
 
 Embedded Systems: Diving into microcontrollers, real-time OS, and hardware interfaces.
 
 Modern C/C++: Applying OOP best practices, templates, and concurrency.
 
-Full stack development using: Java | Spring Boot | JavaScript| React | PostgreSQL | PHP | Etc 
+Full stack development using: Java | Spring Boot | JavaScript | React | PostgreSQL | Etc 
 
-## 👯 Collaboration Opportunities
-
-Seeking collaborators on automotive software simulations and tooling.
-
-## 📬 How to Reach Me
+##  How to Reach Me
 
 LinkedIn: www.linkedin.com/in/roldão-pitra-695895274
 
-## 🔧 Tech Stack
+##  Tech Stack
 
-### Languages & Frameworks:
+### Programming Languages
 Java |
-Spring Boot |
-Sql |
-Python|
-C/C++ |
+Python |
+C / C++ |
 JavaScript |
-React |
-Next.js |
-PHP |
-Html & CSS |
+SQL |
 
+### Frameworks
+Spring Boot (Java) |
+CMake / Make (C/C++ builds) |
+Poetry (Python dependency management) |
+Streamlit (Python) |
+
+### Web Technologies
+HTML |
+CSS |
 
 ### Tools & Databases
 PostgreSQL |
@@ -66,11 +66,11 @@ Docker |
 
 ## ⚡ Fun Facts
 
+Fluent in Português & English.
+
 I'm a guitarist and love Rock/Metal.
 
-A lifelong car enthusiast—dreaming of working in the automotive industry.
-
-Fluent in Português & English.
+A lifelong car enthusiast
 
 
 

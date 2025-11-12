@@ -57,14 +57,14 @@ Gradle |
 CMake|
 Docker |
           
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RolCh43&show_icons=true&theme=tokyonight" alt="RolCh43's GitHub stats" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RolCh43&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
 </p>
 
-## ⚡ Fun Facts
+##  Fun Facts
 
 Fluent in Português & English.
 

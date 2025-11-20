@@ -66,7 +66,7 @@ Docker |
 
 ##  Fun Facts
 
-Fluent in Português & English.
+Fluent in Portuguese & English.
 
 I'm a guitarist and love Rock/Metal.
 
